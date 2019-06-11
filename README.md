@@ -11,7 +11,7 @@ Vektorius
 1000000 studentu Vector <stud> push backinimo trukme: 2.0595230 s
 ```
 
-### Vektorius
+### Vektoriaus funkcijos
 ```shell
 size_t size() const { return vsize_; }
 size_t capacity() const { return cap_; }
